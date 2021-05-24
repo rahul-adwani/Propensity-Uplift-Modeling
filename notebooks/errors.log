@@ -1,0 +1,6 @@
+[2021-05-24 15:59:59,361|kedro.pipeline.node|ERROR] Node `model_for_treated_fit([args,df_01]) -> [treated__model_dict]` failed with error: 
+A task has failed to un-serialize. Please ensure that the arguments of the function are all picklable.
+[2021-05-24 16:00:27,202|kedro.pipeline.node|ERROR] Node `model_for_treated_fit([args,df_01]) -> [treated__model_dict]` failed with error: 
+A task has failed to un-serialize. Please ensure that the arguments of the function are all picklable.
+[2021-05-24 16:02:41,540|kedro.pipeline.node|ERROR] Node `model_for_untreated_fit([args,df_01]) -> [untreated__model_dict]` failed with error: 
+A task has failed to un-serialize. Please ensure that the arguments of the function are all picklable.
