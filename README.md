@@ -17,9 +17,9 @@
 
 ```mermaid
 graph LR
-A[Dataset with Treatment = 0 ] ----> B((Model Classifier))
+A[Dataset with Treatment = 0 ] --> B((Model Classifier))
 
-C[Dataset with Treatment = 1 ] ----> B((Model Classifier))
+C[Dataset with Treatment = 1 ] --> B((Model Classifier))
 
 B --> E{Uplift}
 ```
@@ -28,9 +28,9 @@ B --> E{Uplift}
 
 ```mermaid
 graph LR
-A[Dataset with Treatment = 0 ] ----> B((Model 1 Classifier))
+A[Dataset with Treatment = 0 ] --> B((Model 1 Classifier))
 
-C[Dataset with Treatment = 1 ] ----> D((Model 2 Classifier))
+C[Dataset with Treatment = 1 ] --> D((Model 2 Classifier))
 
 B --> E{Uplift}
 
