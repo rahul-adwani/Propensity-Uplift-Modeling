@@ -1,0 +1,1001 @@
+campaignID,custID,city,age,relationship,commtype,click,camptype,group
+1,1,Mumbai,32,6,1,1,onboarding,1
+2,2,Delhi,47,168,0,0,easy to bank,1
+3,3,Noida,30,34,0,0,mandatory,1
+4,4,Gurgaon,57,152,1,0,ntb,0
+5,5,Bengaluru,40,177,1,0,take two,0
+6,6,Raipur,49,109,1,0,mandatory,1
+7,7,Indore,51,1,0,0,onboarding,0
+8,8,Chennai,19,170,0,0,easy to bank,1
+9,9,Lucknow,60,104,0,0,onboarding,1
+10,10,Kochi,35,136,1,0,easy to bank,1
+11,11,Hyderabad,53,52,1,1,onboarding,0
+12,12,Bhopal,50,32,0,0,take two,0
+13,13,Nagpur,22,175,0,0,mandatory,0
+14,14,Mumbai,24,6,1,0,easy to bank,1
+15,15,Delhi,48,92,1,0,easy to bank,1
+16,16,Noida,45,163,1,0,take two,1
+17,17,Gurgaon,34,177,0,0,onboarding,1
+18,18,Bengaluru,45,30,0,0,onboarding,0
+19,19,Hyderabad,48,143,0,0,easy to bank,1
+20,20,Nagpur,37,38,1,0,mandatory,0
+21,21,Mumbai,55,72,1,1,active again,1
+22,22,Gurgaon,52,28,0,0,ntb,0
+23,23,Noida,23,48,0,0,active again,0
+24,24,Delhi,47,120,1,0,easy to bank,0
+25,25,Delhi,49,14,1,0,easy to bank,1
+26,26,Mumbai,28,29,1,0,active again,0
+27,27,Delhi,46,94,0,0,mandatory,1
+28,28,Noida,26,97,0,0,onboarding,0
+29,29,Gurgaon,45,98,0,0,active again,1
+30,30,Bengaluru,59,167,1,0,onboarding,1
+31,31,Raipur,45,154,1,1,easy to bank,0
+32,32,Indore,29,175,0,0,mandatory,0
+33,33,Chennai,51,119,0,0,mandatory,0
+34,34,Lucknow,57,66,1,0,ntb,0
+35,35,Kochi,52,102,1,0,easy to bank,1
+36,36,Hyderabad,48,92,1,0,ntb,1
+37,37,Bhopal,44,106,0,0,mandatory,0
+38,38,Nagpur,45,41,0,0,mandatory,1
+39,39,Mumbai,44,162,0,0,easy to bank,1
+40,40,Delhi,50,8,1,0,mandatory,1
+41,41,Noida,26,87,1,1,ntb,0
+42,42,Gurgaon,42,143,0,0,onboarding,1
+43,43,Bengaluru,52,77,0,0,mandatory,1
+44,44,Hyderabad,37,125,1,0,easy to bank,1
+45,45,Nagpur,28,66,1,0,active again,1
+46,46,Mumbai,49,75,1,0,easy to bank,1
+47,47,Gurgaon,26,77,0,0,active again,1
+48,48,Noida,19,146,0,0,mandatory,1
+49,49,Delhi,37,14,0,0,mandatory,1
+50,50,Delhi,48,133,1,0,active again,0
+51,51,Mumbai,35,180,1,1,onboarding,1
+52,52,Delhi,35,89,0,0,onboarding,0
+53,53,Noida,22,107,0,0,ntb,1
+54,54,Gurgaon,59,164,1,0,mandatory,1
+55,55,Bengaluru,48,43,1,0,ntb,1
+56,56,Raipur,40,97,1,0,mandatory,0
+57,57,Indore,55,128,0,0,mandatory,1
+58,58,Chennai,57,27,0,0,active again,0
+59,59,Lucknow,24,132,0,0,mandatory,0
+60,60,Kochi,30,133,1,0,onboarding,0
+61,61,Hyderabad,21,134,1,1,easy to bank,0
+62,62,Bhopal,57,20,0,0,mandatory,0
+63,63,Nagpur,52,163,0,0,ntb,1
+64,64,Mumbai,26,65,1,0,mandatory,1
+65,65,Delhi,33,5,1,0,ntb,0
+66,66,Noida,34,146,1,0,active again,1
+67,67,Gurgaon,49,25,0,0,mandatory,0
+68,68,Bengaluru,28,62,0,0,easy to bank,1
+69,69,Hyderabad,27,74,0,0,mandatory,0
+70,70,Nagpur,60,156,1,0,ntb,1
+71,71,Mumbai,32,164,1,1,mandatory,0
+72,72,Gurgaon,20,170,0,0,take two,1
+73,73,Noida,51,177,0,0,onboarding,1
+74,74,Delhi,19,64,1,0,ntb,1
+75,75,Delhi,47,134,1,0,onboarding,0
+76,76,Mumbai,20,96,1,0,active again,0
+77,77,Delhi,47,81,0,0,easy to bank,0
+78,78,Noida,50,19,0,0,ntb,0
+79,79,Gurgaon,48,117,0,0,ntb,0
+80,80,Bengaluru,59,7,1,0,easy to bank,0
+81,81,Raipur,33,35,1,1,easy to bank,1
+82,82,Indore,43,155,0,0,take two,0
+83,83,Chennai,30,31,0,0,ntb,0
+84,84,Lucknow,36,159,1,0,mandatory,1
+85,85,Kochi,42,113,1,0,easy to bank,0
+86,86,Hyderabad,22,132,1,0,ntb,0
+87,87,Bhopal,36,97,0,0,onboarding,0
+88,88,Nagpur,50,9,0,0,mandatory,0
+89,89,Mumbai,32,82,0,0,ntb,0
+90,90,Delhi,33,159,1,0,easy to bank,1
+91,91,Noida,56,122,1,1,take two,0
+92,92,Gurgaon,48,40,0,0,easy to bank,1
+93,93,Bengaluru,49,167,0,0,easy to bank,0
+94,94,Hyderabad,60,111,1,0,easy to bank,1
+95,95,Nagpur,43,19,1,0,active again,1
+96,96,Mumbai,56,89,1,0,take two,1
+97,97,Gurgaon,60,98,0,0,ntb,0
+98,98,Noida,39,12,0,0,ntb,1
+99,99,Delhi,43,104,0,0,active again,1
+100,100,Delhi,32,5,1,0,easy to bank,0
+101,1,Mumbai,40,26,1,1,ntb,0
+102,2,Delhi,44,15,0,0,take two,1
+103,3,Noida,40,45,0,0,onboarding,0
+104,4,Gurgaon,54,16,1,0,easy to bank,0
+105,5,Bengaluru,56,112,1,0,mandatory,0
+106,6,Raipur,51,67,1,0,active again,0
+107,7,Indore,60,137,0,0,easy to bank,1
+108,8,Chennai,30,125,0,0,onboarding,0
+109,9,Lucknow,30,8,0,0,easy to bank,1
+110,10,Kochi,34,148,1,0,ntb,1
+111,11,Hyderabad,38,162,1,1,mandatory,1
+112,12,Bhopal,47,153,0,0,ntb,1
+113,13,Nagpur,56,153,0,0,onboarding,1
+114,14,Mumbai,36,166,1,0,take two,1
+115,15,Delhi,41,138,1,0,easy to bank,0
+116,16,Noida,27,23,1,0,mandatory,1
+117,17,Gurgaon,60,137,0,0,mandatory,1
+118,18,Bengaluru,18,17,0,0,onboarding,0
+119,19,Hyderabad,39,156,0,0,ntb,0
+120,20,Nagpur,19,81,1,0,easy to bank,1
+121,21,Mumbai,43,138,1,1,take two,1
+122,22,Gurgaon,37,39,0,0,onboarding,1
+123,23,Noida,20,99,0,0,take two,1
+124,24,Delhi,51,16,1,0,ntb,1
+125,25,Delhi,51,74,1,0,onboarding,1
+126,26,Mumbai,39,128,1,0,ntb,0
+127,27,Delhi,21,75,0,0,onboarding,0
+128,28,Noida,40,95,0,0,ntb,1
+129,29,Gurgaon,45,76,0,0,easy to bank,1
+130,30,Bengaluru,33,175,1,0,active again,0
+131,31,Raipur,35,48,1,1,mandatory,1
+132,32,Indore,49,114,0,0,active again,0
+133,33,Chennai,32,111,0,0,easy to bank,1
+134,34,Lucknow,40,135,1,0,take two,0
+135,35,Kochi,42,72,1,0,ntb,1
+136,36,Hyderabad,23,176,1,0,mandatory,1
+137,37,Bhopal,56,102,0,0,easy to bank,1
+138,38,Nagpur,50,88,0,0,ntb,0
+139,39,Mumbai,35,127,0,0,take two,1
+140,40,Delhi,57,56,1,0,mandatory,1
+141,41,Noida,57,126,1,1,easy to bank,1
+142,42,Gurgaon,19,2,0,0,ntb,1
+143,43,Bengaluru,47,22,0,0,ntb,1
+144,44,Hyderabad,56,88,1,0,onboarding,0
+145,45,Nagpur,18,139,1,0,take two,0
+146,46,Mumbai,26,156,1,0,mandatory,1
+147,47,Gurgaon,23,54,0,0,easy to bank,0
+148,48,Noida,32,6,0,0,ntb,0
+149,49,Delhi,19,75,0,0,ntb,1
+150,50,Delhi,42,54,1,0,easy to bank,1
+151,51,Mumbai,26,160,1,1,mandatory,1
+152,52,Delhi,30,5,0,0,onboarding,0
+153,53,Noida,41,176,0,0,active again,1
+154,54,Gurgaon,35,7,1,0,ntb,1
+155,55,Bengaluru,60,63,1,0,onboarding,0
+156,56,Raipur,28,140,1,0,take two,1
+157,57,Indore,24,98,0,0,ntb,0
+158,58,Chennai,55,56,0,0,ntb,1
+159,59,Lucknow,35,110,0,0,ntb,1
+160,60,Kochi,53,0,1,0,active again,1
+161,61,Hyderabad,43,116,1,1,active again,1
+162,62,Bhopal,33,83,0,0,onboarding,0
+163,63,Nagpur,37,11,0,0,active again,0
+164,64,Mumbai,47,44,1,0,onboarding,1
+165,65,Delhi,32,97,1,0,active again,1
+166,66,Noida,21,98,1,0,take two,0
+167,67,Gurgaon,29,82,0,0,active again,0
+168,68,Bengaluru,34,23,0,0,ntb,0
+169,69,Hyderabad,55,55,0,0,easy to bank,1
+170,70,Nagpur,39,45,1,0,active again,0
+171,71,Mumbai,27,117,1,1,mandatory,0
+172,72,Gurgaon,22,68,0,0,easy to bank,1
+173,73,Noida,36,129,0,0,mandatory,0
+174,74,Delhi,21,31,1,0,easy to bank,0
+175,75,Delhi,55,123,1,0,take two,0
+176,76,Mumbai,44,133,1,0,mandatory,1
+177,77,Delhi,31,137,0,0,ntb,1
+178,78,Noida,47,22,0,0,take two,0
+179,79,Gurgaon,42,35,0,0,active again,0
+180,80,Bengaluru,19,117,1,0,mandatory,1
+181,81,Raipur,21,110,1,1,active again,1
+182,82,Indore,52,43,0,0,easy to bank,0
+183,83,Chennai,21,97,0,0,onboarding,1
+184,84,Lucknow,38,77,1,0,ntb,1
+185,85,Kochi,30,137,1,0,ntb,1
+186,86,Hyderabad,32,99,1,0,ntb,0
+187,87,Bhopal,40,38,0,0,ntb,0
+188,88,Nagpur,40,22,0,0,easy to bank,0
+189,89,Mumbai,52,81,0,0,ntb,1
+190,90,Delhi,39,25,1,0,take two,0
+191,91,Noida,48,32,1,1,active again,1
+192,92,Gurgaon,38,140,0,0,take two,1
+193,93,Bengaluru,18,15,0,0,ntb,1
+194,94,Hyderabad,32,72,1,0,onboarding,1
+195,95,Nagpur,21,120,1,0,active again,1
+196,96,Mumbai,56,114,1,0,ntb,0
+197,97,Gurgaon,40,76,0,0,active again,1
+198,98,Noida,54,71,0,0,ntb,1
+199,99,Delhi,37,174,0,0,easy to bank,1
+200,100,Delhi,26,3,1,0,active again,1
+201,1,Mumbai,40,149,1,1,mandatory,1
+202,2,Delhi,30,90,0,0,ntb,1
+203,3,Noida,28,76,0,0,take two,1
+204,4,Gurgaon,50,93,1,0,onboarding,0
+205,5,Bengaluru,29,19,1,0,ntb,1
+206,6,Raipur,28,42,1,0,take two,0
+207,7,Indore,48,96,0,0,mandatory,0
+208,8,Chennai,26,154,0,0,ntb,1
+209,9,Lucknow,39,73,0,0,take two,1
+210,10,Kochi,18,5,1,0,ntb,1
+211,11,Hyderabad,29,137,1,1,ntb,0
+212,12,Bhopal,40,172,0,0,easy to bank,1
+213,13,Nagpur,46,42,0,0,ntb,1
+214,14,Mumbai,47,77,1,0,mandatory,0
+215,15,Delhi,21,94,1,0,onboarding,0
+216,16,Noida,26,144,1,0,take two,0
+217,17,Gurgaon,29,153,0,0,onboarding,1
+218,18,Bengaluru,50,164,0,0,take two,0
+219,19,Hyderabad,34,44,0,0,onboarding,1
+220,20,Nagpur,56,166,1,0,active again,1
+221,21,Mumbai,30,144,1,1,easy to bank,0
+222,22,Gurgaon,42,20,0,0,mandatory,0
+223,23,Noida,32,141,0,0,onboarding,1
+224,24,Delhi,46,163,1,0,active again,0
+225,25,Delhi,23,97,1,0,take two,1
+226,26,Mumbai,57,15,1,0,active again,0
+227,27,Delhi,55,141,0,0,active again,0
+228,28,Noida,42,14,0,0,easy to bank,0
+229,29,Gurgaon,54,21,0,0,easy to bank,0
+230,30,Bengaluru,56,21,1,0,ntb,0
+231,31,Raipur,39,145,1,1,take two,1
+232,32,Indore,50,174,0,0,take two,1
+233,33,Chennai,32,36,0,0,active again,0
+234,34,Lucknow,25,95,1,0,take two,1
+235,35,Kochi,31,23,1,0,take two,0
+236,36,Hyderabad,41,138,1,0,onboarding,0
+237,37,Bhopal,40,119,0,0,onboarding,1
+238,38,Nagpur,49,52,0,0,take two,0
+239,39,Mumbai,27,169,0,0,ntb,0
+240,40,Delhi,45,146,1,0,active again,0
+241,41,Noida,52,56,1,1,take two,0
+242,42,Gurgaon,32,135,0,0,take two,1
+243,43,Bengaluru,38,10,0,0,ntb,0
+244,44,Hyderabad,33,113,1,0,easy to bank,0
+245,45,Nagpur,60,137,1,0,mandatory,1
+246,46,Mumbai,45,90,1,0,take two,0
+247,47,Gurgaon,26,122,0,0,active again,0
+248,48,Noida,59,73,0,0,easy to bank,1
+249,49,Delhi,20,165,0,0,take two,0
+250,50,Delhi,43,65,1,0,active again,1
+251,51,Mumbai,46,20,1,1,take two,0
+252,52,Delhi,46,31,0,0,ntb,0
+253,53,Noida,19,162,0,0,mandatory,0
+254,54,Gurgaon,33,73,1,0,ntb,0
+255,55,Bengaluru,54,130,1,0,onboarding,1
+256,56,Raipur,41,22,1,0,easy to bank,0
+257,57,Indore,60,92,0,0,onboarding,1
+258,58,Chennai,46,20,0,0,easy to bank,1
+259,59,Lucknow,20,79,0,0,active again,0
+260,60,Kochi,53,97,1,0,active again,1
+261,61,Hyderabad,18,7,1,1,mandatory,0
+262,62,Bhopal,46,51,0,0,take two,1
+263,63,Nagpur,54,112,0,0,easy to bank,1
+264,64,Mumbai,27,47,1,0,easy to bank,0
+265,65,Delhi,45,94,1,0,active again,0
+266,66,Noida,27,143,1,0,onboarding,0
+267,67,Gurgaon,25,104,0,0,onboarding,0
+268,68,Bengaluru,41,78,0,0,onboarding,1
+269,69,Hyderabad,60,175,0,0,ntb,1
+270,70,Nagpur,59,127,1,0,active again,0
+271,71,Mumbai,19,136,1,1,mandatory,0
+272,72,Gurgaon,53,14,0,0,easy to bank,1
+273,73,Noida,59,23,0,0,mandatory,1
+274,74,Delhi,58,59,1,0,easy to bank,0
+275,75,Delhi,45,177,1,0,take two,0
+276,76,Mumbai,40,129,1,0,mandatory,1
+277,77,Delhi,56,162,0,0,ntb,0
+278,78,Noida,34,122,0,0,onboarding,1
+279,79,Gurgaon,35,171,0,0,mandatory,1
+280,80,Bengaluru,18,35,1,0,take two,1
+281,81,Raipur,47,86,1,1,ntb,1
+282,82,Indore,21,115,0,0,ntb,0
+283,83,Chennai,45,48,0,0,active again,1
+284,84,Lucknow,30,131,1,0,ntb,0
+285,85,Kochi,18,109,1,0,ntb,1
+286,86,Hyderabad,18,20,1,0,active again,0
+287,87,Bhopal,48,159,0,0,active again,0
+288,88,Nagpur,24,177,0,0,onboarding,1
+289,89,Mumbai,40,62,0,0,take two,1
+290,90,Delhi,40,159,1,0,ntb,1
+291,91,Noida,51,157,1,1,ntb,0
+292,92,Gurgaon,31,84,0,0,take two,0
+293,93,Bengaluru,25,57,0,0,ntb,1
+294,94,Hyderabad,20,81,1,0,active again,1
+295,95,Nagpur,33,133,1,0,onboarding,1
+296,96,Mumbai,28,172,1,0,active again,1
+297,97,Gurgaon,40,24,0,0,take two,1
+298,98,Noida,42,179,0,0,active again,0
+299,99,Delhi,60,4,0,0,active again,0
+300,100,Delhi,25,89,1,0,easy to bank,0
+301,1,Mumbai,26,153,1,1,onboarding,0
+302,2,Delhi,45,91,0,0,easy to bank,0
+303,3,Noida,20,21,0,0,easy to bank,1
+304,4,Gurgaon,56,177,1,0,onboarding,1
+305,5,Bengaluru,26,86,1,0,mandatory,0
+306,6,Raipur,29,15,1,0,active again,1
+307,7,Indore,48,44,0,0,take two,1
+308,8,Chennai,18,61,0,0,onboarding,0
+309,9,Lucknow,23,8,0,0,take two,1
+310,10,Kochi,42,19,1,0,ntb,1
+311,11,Hyderabad,35,14,1,1,mandatory,1
+312,12,Bhopal,53,176,0,0,mandatory,1
+313,13,Nagpur,53,151,0,0,easy to bank,1
+314,14,Mumbai,46,44,1,0,take two,0
+315,15,Delhi,45,92,1,0,ntb,0
+316,16,Noida,18,40,1,0,take two,1
+317,17,Gurgaon,48,109,0,0,ntb,1
+318,18,Bengaluru,44,83,0,0,active again,1
+319,19,Hyderabad,28,116,0,0,take two,1
+320,20,Nagpur,48,32,1,0,take two,0
+321,21,Mumbai,60,68,1,1,onboarding,1
+322,22,Gurgaon,48,170,0,0,onboarding,0
+323,23,Noida,37,70,0,0,easy to bank,1
+324,24,Delhi,26,9,1,0,take two,0
+325,25,Delhi,49,75,1,0,take two,1
+326,26,Mumbai,54,126,1,0,mandatory,1
+327,27,Delhi,34,78,0,0,take two,0
+328,28,Noida,25,144,0,0,easy to bank,0
+329,29,Gurgaon,58,30,0,0,onboarding,1
+330,30,Bengaluru,52,66,1,0,take two,0
+331,31,Raipur,55,63,1,1,mandatory,0
+332,32,Indore,44,158,0,0,mandatory,1
+333,33,Chennai,29,178,0,0,take two,1
+334,34,Lucknow,19,180,1,0,easy to bank,1
+335,35,Kochi,40,164,1,0,easy to bank,0
+336,36,Hyderabad,42,94,1,0,take two,0
+337,37,Bhopal,24,19,0,0,ntb,0
+338,38,Nagpur,43,35,0,0,active again,1
+339,39,Mumbai,33,30,0,0,take two,0
+340,40,Delhi,47,150,1,0,easy to bank,1
+341,41,Noida,53,81,1,1,take two,1
+342,42,Gurgaon,56,76,0,0,take two,1
+343,43,Bengaluru,30,138,0,0,mandatory,1
+344,44,Hyderabad,34,128,1,0,take two,0
+345,45,Nagpur,46,160,1,0,mandatory,0
+346,46,Mumbai,25,92,1,0,take two,1
+347,47,Gurgaon,26,68,0,0,onboarding,1
+348,48,Noida,44,42,0,0,active again,1
+349,49,Delhi,23,156,0,0,easy to bank,0
+350,50,Delhi,41,4,1,0,mandatory,0
+351,51,Mumbai,18,24,1,1,onboarding,1
+352,52,Delhi,46,124,0,0,easy to bank,0
+353,53,Noida,46,54,0,0,ntb,0
+354,54,Gurgaon,58,19,1,0,take two,0
+355,55,Bengaluru,33,88,1,0,ntb,1
+356,56,Raipur,48,179,1,0,active again,0
+357,57,Indore,55,143,0,0,ntb,0
+358,58,Chennai,57,81,0,0,easy to bank,0
+359,59,Lucknow,52,4,0,0,mandatory,1
+360,60,Kochi,31,77,1,0,ntb,0
+361,61,Hyderabad,51,66,1,1,onboarding,1
+362,62,Bhopal,60,71,0,0,ntb,1
+363,63,Nagpur,35,81,0,0,onboarding,0
+364,64,Mumbai,28,168,1,0,take two,0
+365,65,Delhi,22,102,1,0,ntb,1
+366,66,Noida,51,152,1,0,active again,0
+367,67,Gurgaon,25,174,0,0,mandatory,0
+368,68,Bengaluru,43,140,0,0,ntb,0
+369,69,Hyderabad,56,57,0,0,easy to bank,0
+370,70,Nagpur,35,154,1,0,easy to bank,1
+371,71,Mumbai,24,74,1,1,easy to bank,0
+372,72,Gurgaon,41,114,0,0,take two,0
+373,73,Noida,23,118,0,0,easy to bank,0
+374,74,Delhi,60,159,1,0,active again,0
+375,75,Delhi,43,135,1,0,mandatory,1
+376,76,Mumbai,19,60,1,0,easy to bank,1
+377,77,Delhi,58,71,0,0,mandatory,0
+378,78,Noida,59,35,0,0,ntb,0
+379,79,Gurgaon,55,142,0,0,onboarding,0
+380,80,Bengaluru,58,17,1,0,mandatory,1
+381,81,Raipur,28,77,1,1,mandatory,0
+382,82,Indore,37,22,0,0,take two,1
+383,83,Chennai,35,120,0,0,active again,0
+384,84,Lucknow,34,81,1,0,onboarding,1
+385,85,Kochi,56,129,1,0,ntb,1
+386,86,Hyderabad,59,35,1,0,active again,1
+387,87,Bhopal,52,144,0,0,take two,0
+388,88,Nagpur,29,9,0,0,mandatory,1
+389,89,Mumbai,35,139,0,0,take two,0
+390,90,Delhi,54,7,1,0,onboarding,1
+391,91,Noida,38,8,1,1,active again,1
+392,92,Gurgaon,48,2,0,0,take two,0
+393,93,Bengaluru,58,33,0,0,onboarding,1
+394,94,Hyderabad,18,57,1,0,mandatory,0
+395,95,Nagpur,54,130,1,0,active again,1
+396,96,Mumbai,34,120,1,0,active again,0
+397,97,Gurgaon,34,73,0,0,onboarding,0
+398,98,Noida,18,54,0,0,mandatory,1
+399,99,Delhi,37,81,0,0,active again,0
+400,100,Delhi,40,172,1,0,active again,1
+401,1,Mumbai,48,107,1,1,easy to bank,1
+402,2,Delhi,50,106,0,0,mandatory,0
+403,3,Noida,47,37,0,0,active again,1
+404,4,Gurgaon,28,89,1,0,ntb,1
+405,5,Bengaluru,35,171,1,0,onboarding,0
+406,6,Raipur,32,64,1,0,ntb,1
+407,7,Indore,27,119,0,0,onboarding,0
+408,8,Chennai,36,157,0,0,take two,1
+409,9,Lucknow,33,87,0,0,mandatory,1
+410,10,Kochi,51,160,1,0,ntb,0
+411,11,Hyderabad,24,114,1,1,easy to bank,1
+412,12,Bhopal,32,80,0,0,take two,0
+413,13,Nagpur,35,39,0,0,ntb,0
+414,14,Mumbai,28,83,1,0,take two,1
+415,15,Delhi,30,15,1,0,take two,1
+416,16,Noida,54,176,1,0,mandatory,1
+417,17,Gurgaon,30,111,0,0,ntb,1
+418,18,Bengaluru,43,141,0,0,take two,1
+419,19,Hyderabad,46,61,0,0,active again,1
+420,20,Nagpur,46,60,1,0,ntb,0
+421,21,Mumbai,45,164,1,1,ntb,0
+422,22,Gurgaon,59,28,0,0,mandatory,1
+423,23,Noida,58,50,0,0,take two,1
+424,24,Delhi,59,71,1,0,ntb,0
+425,25,Delhi,27,148,1,0,mandatory,0
+426,26,Mumbai,49,67,1,0,ntb,1
+427,27,Delhi,56,158,0,0,take two,0
+428,28,Noida,40,153,0,0,ntb,0
+429,29,Gurgaon,43,167,0,0,ntb,1
+430,30,Bengaluru,37,74,1,0,active again,1
+431,31,Raipur,28,14,1,1,active again,1
+432,32,Indore,46,35,0,0,easy to bank,1
+433,33,Chennai,32,156,0,0,onboarding,0
+434,34,Lucknow,59,104,1,0,mandatory,0
+435,35,Kochi,31,119,1,0,easy to bank,0
+436,36,Hyderabad,57,154,1,0,mandatory,0
+437,37,Bhopal,49,180,0,0,easy to bank,0
+438,38,Nagpur,25,69,0,0,easy to bank,1
+439,39,Mumbai,26,32,0,0,active again,0
+440,40,Delhi,29,22,1,0,onboarding,0
+441,41,Noida,20,17,1,1,take two,1
+442,42,Gurgaon,60,36,0,0,ntb,1
+443,43,Bengaluru,40,101,0,0,active again,0
+444,44,Hyderabad,38,81,1,0,mandatory,0
+445,45,Nagpur,38,24,1,0,onboarding,0
+446,46,Mumbai,24,130,1,0,take two,1
+447,47,Gurgaon,46,135,0,0,ntb,1
+448,48,Noida,57,86,0,0,ntb,1
+449,49,Delhi,35,146,0,0,easy to bank,0
+450,50,Delhi,52,58,1,0,active again,0
+451,51,Mumbai,22,34,1,1,active again,1
+452,52,Delhi,34,0,0,0,ntb,1
+453,53,Noida,34,12,0,0,ntb,1
+454,54,Gurgaon,39,166,1,0,ntb,0
+455,55,Bengaluru,52,4,1,0,active again,1
+456,56,Raipur,46,115,1,0,take two,1
+457,57,Indore,41,115,0,0,easy to bank,0
+458,58,Chennai,28,49,0,0,onboarding,1
+459,59,Lucknow,30,173,0,0,onboarding,1
+460,60,Kochi,56,26,1,0,take two,1
+461,61,Hyderabad,24,22,1,1,active again,0
+462,62,Bhopal,25,171,0,0,active again,1
+463,63,Nagpur,24,97,0,0,onboarding,0
+464,64,Mumbai,44,93,1,0,easy to bank,1
+465,65,Delhi,53,180,1,0,active again,0
+466,66,Noida,33,139,1,0,take two,0
+467,67,Gurgaon,50,17,0,0,mandatory,0
+468,68,Bengaluru,23,146,0,0,take two,1
+469,69,Hyderabad,49,49,0,0,ntb,1
+470,70,Nagpur,23,29,1,0,active again,1
+471,71,Mumbai,30,8,1,1,active again,1
+472,72,Gurgaon,30,66,0,0,mandatory,0
+473,73,Noida,59,143,0,0,onboarding,1
+474,74,Delhi,32,116,1,0,onboarding,0
+475,75,Delhi,45,58,1,0,mandatory,0
+476,76,Mumbai,44,46,1,0,take two,0
+477,77,Delhi,58,7,0,0,onboarding,1
+478,78,Noida,50,155,0,0,mandatory,0
+479,79,Gurgaon,59,141,0,0,mandatory,0
+480,80,Bengaluru,21,57,1,0,easy to bank,0
+481,81,Raipur,46,35,1,1,ntb,0
+482,82,Indore,32,45,0,0,easy to bank,1
+483,83,Chennai,35,141,0,0,take two,1
+484,84,Lucknow,18,34,1,0,ntb,1
+485,85,Kochi,20,85,1,0,easy to bank,0
+486,86,Hyderabad,27,148,1,0,ntb,1
+487,87,Bhopal,18,0,0,0,take two,1
+488,88,Nagpur,27,161,0,0,ntb,1
+489,89,Mumbai,59,106,0,0,onboarding,0
+490,90,Delhi,36,135,1,0,ntb,1
+491,91,Noida,29,138,1,1,mandatory,1
+492,92,Gurgaon,44,67,0,0,mandatory,1
+493,93,Bengaluru,19,18,0,0,onboarding,1
+494,94,Hyderabad,34,87,1,0,onboarding,1
+495,95,Nagpur,38,124,1,0,take two,0
+496,96,Mumbai,53,176,1,0,ntb,0
+497,97,Gurgaon,60,73,0,0,active again,0
+498,98,Noida,41,13,0,0,easy to bank,0
+499,99,Delhi,21,175,0,0,easy to bank,1
+500,100,Delhi,51,92,1,0,onboarding,1
+501,1,Mumbai,56,42,1,1,easy to bank,1
+502,2,Delhi,18,90,0,0,ntb,0
+503,3,Noida,54,128,0,0,easy to bank,1
+504,4,Gurgaon,42,171,1,0,mandatory,0
+505,5,Bengaluru,23,129,1,0,easy to bank,1
+506,6,Raipur,59,75,1,0,ntb,0
+507,7,Indore,58,154,0,0,active again,0
+508,8,Chennai,47,148,0,0,take two,0
+509,9,Lucknow,45,86,0,0,mandatory,0
+510,10,Kochi,36,151,1,0,take two,1
+511,11,Hyderabad,43,69,1,1,active again,1
+512,12,Bhopal,41,157,0,0,ntb,1
+513,13,Nagpur,34,22,0,0,mandatory,1
+514,14,Mumbai,25,32,1,0,mandatory,0
+515,15,Delhi,24,31,1,0,active again,1
+516,16,Noida,43,103,1,0,onboarding,1
+517,17,Gurgaon,51,167,0,0,onboarding,0
+518,18,Bengaluru,42,172,0,0,active again,1
+519,19,Hyderabad,29,145,0,0,mandatory,1
+520,20,Nagpur,46,166,1,0,ntb,1
+521,21,Mumbai,26,72,1,1,ntb,1
+522,22,Gurgaon,23,142,0,0,easy to bank,0
+523,23,Noida,24,133,0,0,easy to bank,0
+524,24,Delhi,34,1,1,0,ntb,0
+525,25,Delhi,39,57,1,0,take two,0
+526,26,Mumbai,33,152,1,0,easy to bank,0
+527,27,Delhi,36,26,0,0,ntb,1
+528,28,Noida,30,58,0,0,easy to bank,0
+529,29,Gurgaon,53,48,0,0,mandatory,1
+530,30,Bengaluru,28,49,1,0,onboarding,1
+531,31,Raipur,29,97,1,1,mandatory,0
+532,32,Indore,59,162,0,0,easy to bank,1
+533,33,Chennai,18,154,0,0,take two,0
+534,34,Lucknow,42,56,1,0,onboarding,0
+535,35,Kochi,60,161,1,0,active again,0
+536,36,Hyderabad,36,62,1,0,take two,1
+537,37,Bhopal,23,117,0,0,onboarding,1
+538,38,Nagpur,24,42,0,0,ntb,0
+539,39,Mumbai,55,28,0,0,active again,0
+540,40,Delhi,30,5,1,0,onboarding,1
+541,41,Noida,24,58,1,1,active again,0
+542,42,Gurgaon,51,23,0,0,active again,1
+543,43,Bengaluru,43,82,0,0,easy to bank,1
+544,44,Hyderabad,49,105,1,0,take two,1
+545,45,Nagpur,24,169,1,0,easy to bank,1
+546,46,Mumbai,38,112,1,0,easy to bank,0
+547,47,Gurgaon,54,122,0,0,ntb,0
+548,48,Noida,34,7,0,0,ntb,1
+549,49,Delhi,55,13,0,0,active again,1
+550,50,Delhi,38,120,1,0,onboarding,0
+551,51,Mumbai,60,88,1,1,ntb,0
+552,52,Delhi,57,38,0,0,active again,1
+553,53,Noida,26,110,0,0,take two,1
+554,54,Gurgaon,25,29,1,0,ntb,1
+555,55,Bengaluru,48,153,1,0,mandatory,0
+556,56,Raipur,39,173,1,0,ntb,1
+557,57,Indore,24,16,0,0,mandatory,1
+558,58,Chennai,58,166,0,0,easy to bank,1
+559,59,Lucknow,58,126,0,0,mandatory,1
+560,60,Kochi,44,22,1,1,ntb,1
+561,61,Hyderabad,20,97,1,0,onboarding,0
+562,62,Bhopal,50,117,0,0,mandatory,1
+563,63,Nagpur,55,29,0,0,active again,0
+564,64,Mumbai,42,4,1,0,easy to bank,0
+565,65,Delhi,41,96,1,0,mandatory,1
+566,66,Noida,28,135,1,0,ntb,1
+567,67,Gurgaon,34,38,0,0,ntb,0
+568,68,Bengaluru,47,67,0,0,easy to bank,0
+569,69,Hyderabad,55,172,0,0,ntb,0
+570,70,Nagpur,49,133,1,1,active again,1
+571,71,Mumbai,43,125,1,0,easy to bank,1
+572,72,Gurgaon,47,145,0,0,easy to bank,0
+573,73,Noida,34,161,0,0,take two,0
+574,74,Delhi,19,59,1,0,easy to bank,1
+575,75,Delhi,58,5,1,0,mandatory,1
+576,76,Mumbai,19,111,1,0,easy to bank,0
+577,77,Delhi,22,74,0,0,ntb,1
+578,78,Noida,43,5,0,0,easy to bank,0
+579,79,Gurgaon,24,142,0,0,active again,1
+580,80,Bengaluru,55,139,1,1,onboarding,1
+581,81,Raipur,26,66,1,0,take two,1
+582,82,Indore,59,94,0,0,ntb,1
+583,83,Chennai,46,104,0,0,onboarding,0
+584,84,Lucknow,22,107,1,0,take two,1
+585,85,Kochi,28,85,1,0,mandatory,1
+586,86,Hyderabad,49,34,1,0,easy to bank,0
+587,87,Bhopal,27,1,0,0,take two,0
+588,88,Nagpur,30,138,0,0,ntb,0
+589,89,Mumbai,56,38,0,0,mandatory,0
+590,90,Delhi,21,142,1,1,take two,0
+591,91,Noida,24,108,1,0,ntb,1
+592,92,Gurgaon,18,135,0,0,easy to bank,1
+593,93,Bengaluru,32,18,0,0,mandatory,0
+594,94,Hyderabad,27,71,1,0,ntb,1
+595,95,Nagpur,36,148,1,0,ntb,0
+596,96,Mumbai,32,98,1,0,mandatory,1
+597,97,Gurgaon,37,180,0,0,mandatory,0
+598,98,Noida,58,153,0,0,ntb,0
+599,99,Delhi,45,149,0,1,onboarding,1
+600,100,Delhi,54,59,1,0,active again,0
+601,1,Mumbai,33,162,1,0,active again,1
+602,2,Delhi,28,105,0,0,onboarding,0
+603,3,Noida,19,118,0,0,take two,1
+604,4,Gurgaon,55,147,1,0,easy to bank,1
+605,5,Bengaluru,40,177,1,0,take two,0
+606,6,Raipur,51,98,1,0,take two,1
+607,7,Indore,30,124,0,0,easy to bank,0
+608,8,Chennai,39,90,0,0,onboarding,0
+609,9,Lucknow,29,137,0,1,easy to bank,1
+610,10,Kochi,46,161,1,0,onboarding,0
+611,11,Hyderabad,50,38,1,0,onboarding,1
+612,12,Bhopal,33,175,0,0,take two,1
+613,13,Nagpur,29,130,0,0,easy to bank,0
+614,14,Mumbai,36,32,1,0,onboarding,0
+615,15,Delhi,38,33,1,0,take two,1
+616,16,Noida,48,136,1,0,onboarding,1
+617,17,Gurgaon,52,149,0,0,ntb,0
+618,18,Bengaluru,45,24,0,0,easy to bank,0
+619,19,Hyderabad,20,53,0,1,ntb,1
+620,20,Nagpur,32,98,1,0,mandatory,1
+621,21,Mumbai,23,20,1,0,mandatory,1
+622,22,Gurgaon,55,117,0,0,onboarding,1
+623,23,Noida,29,57,0,0,active again,0
+624,24,Delhi,25,102,1,0,mandatory,1
+625,25,Delhi,26,126,1,0,mandatory,0
+626,26,Mumbai,41,18,1,0,active again,0
+627,27,Delhi,31,87,0,0,ntb,0
+628,28,Noida,45,172,0,0,active again,1
+629,29,Gurgaon,48,116,0,1,active again,1
+630,30,Bengaluru,28,11,1,0,take two,0
+631,31,Raipur,59,141,1,0,take two,0
+632,32,Indore,45,145,0,0,ntb,0
+633,33,Chennai,27,135,0,0,ntb,0
+634,34,Lucknow,30,122,1,0,mandatory,0
+635,35,Kochi,29,49,1,0,take two,0
+636,36,Hyderabad,33,96,1,0,take two,0
+637,37,Bhopal,46,119,0,0,ntb,0
+638,38,Nagpur,59,27,0,0,active again,1
+639,39,Mumbai,55,89,0,1,onboarding,0
+640,40,Delhi,45,167,1,0,take two,1
+641,41,Noida,49,86,1,0,mandatory,0
+642,42,Gurgaon,27,136,1,0,active again,1
+643,43,Bengaluru,58,65,0,0,ntb,1
+644,44,Hyderabad,56,1,0,0,ntb,1
+645,45,Nagpur,40,102,1,0,mandatory,1
+646,46,Mumbai,38,69,1,0,take two,0
+647,47,Gurgaon,25,35,1,0,onboarding,1
+648,48,Noida,60,113,0,0,easy to bank,1
+649,49,Delhi,37,0,0,1,easy to bank,1
+650,50,Delhi,28,89,0,0,active again,0
+651,51,Mumbai,22,118,1,0,ntb,0
+652,52,Delhi,50,45,1,0,easy to bank,1
+653,53,Noida,34,63,0,0,onboarding,0
+654,54,Gurgaon,54,46,0,0,take two,1
+655,55,Bengaluru,42,66,1,0,mandatory,1
+656,56,Raipur,48,158,1,0,onboarding,1
+657,57,Indore,33,103,1,0,active again,0
+658,58,Chennai,39,37,0,0,ntb,1
+659,59,Lucknow,46,95,0,1,mandatory,1
+660,60,Kochi,48,7,0,0,active again,1
+661,61,Hyderabad,18,51,1,0,active again,1
+662,62,Bhopal,26,104,1,0,mandatory,1
+663,63,Nagpur,60,44,0,0,active again,1
+664,64,Mumbai,31,119,0,0,mandatory,0
+665,65,Delhi,39,43,1,0,mandatory,1
+666,66,Noida,42,95,1,0,onboarding,1
+667,67,Gurgaon,33,19,1,0,ntb,0
+668,68,Bengaluru,47,32,0,0,ntb,1
+669,69,Hyderabad,27,174,0,1,ntb,1
+670,70,Nagpur,50,47,0,0,ntb,0
+671,71,Mumbai,37,133,1,0,take two,1
+672,72,Gurgaon,50,16,1,0,take two,1
+673,73,Noida,44,86,0,0,mandatory,0
+674,74,Delhi,60,164,0,0,easy to bank,1
+675,75,Delhi,37,83,1,0,mandatory,1
+676,76,Mumbai,42,161,1,0,easy to bank,0
+677,77,Delhi,43,150,1,0,mandatory,0
+678,78,Noida,43,118,0,0,take two,0
+679,79,Gurgaon,60,127,0,1,active again,1
+680,80,Bengaluru,54,0,0,0,mandatory,1
+681,81,Raipur,39,156,1,0,easy to bank,0
+682,82,Indore,37,20,1,0,active again,1
+683,83,Chennai,44,99,1,0,easy to bank,1
+684,84,Lucknow,39,27,0,0,easy to bank,0
+685,85,Kochi,39,75,0,0,take two,1
+686,86,Hyderabad,46,116,1,0,take two,0
+687,87,Bhopal,48,153,1,0,active again,1
+688,88,Nagpur,51,101,1,0,active again,1
+689,89,Mumbai,43,86,0,1,onboarding,1
+690,90,Delhi,42,2,0,0,active again,0
+691,91,Noida,57,74,0,0,easy to bank,0
+692,92,Gurgaon,35,172,1,0,mandatory,1
+693,93,Bengaluru,46,180,1,0,onboarding,1
+694,94,Hyderabad,43,42,0,0,ntb,1
+695,95,Nagpur,32,29,0,0,easy to bank,1
+696,96,Mumbai,55,53,1,0,onboarding,0
+697,97,Gurgaon,36,0,1,0,take two,1
+698,98,Noida,42,14,1,0,active again,1
+699,99,Delhi,57,156,0,1,active again,0
+700,100,Delhi,54,167,0,0,mandatory,1
+701,1,Mumbai,59,166,0,0,mandatory,0
+702,2,Delhi,27,50,1,0,easy to bank,0
+703,3,Noida,23,30,1,0,onboarding,1
+704,4,Gurgaon,23,147,0,0,active again,0
+705,5,Bengaluru,35,37,0,0,ntb,0
+706,6,Raipur,46,62,1,0,take two,1
+707,7,Indore,59,7,1,0,easy to bank,0
+708,8,Chennai,29,88,1,0,onboarding,1
+709,9,Lucknow,29,168,0,1,active again,1
+710,10,Kochi,25,122,0,0,mandatory,0
+711,11,Hyderabad,26,134,0,0,ntb,1
+712,12,Bhopal,56,8,1,0,ntb,0
+713,13,Nagpur,40,82,1,0,active again,0
+714,14,Mumbai,52,81,0,0,ntb,1
+715,15,Delhi,33,33,0,0,take two,1
+716,16,Noida,42,156,1,0,active again,1
+717,17,Gurgaon,19,138,1,0,active again,1
+718,18,Bengaluru,57,154,1,0,ntb,1
+719,19,Hyderabad,59,126,0,1,active again,0
+720,20,Nagpur,26,171,0,0,take two,1
+721,21,Mumbai,35,161,0,0,take two,0
+722,22,Gurgaon,21,162,1,0,onboarding,0
+723,23,Noida,60,135,1,0,onboarding,0
+724,24,Delhi,41,87,1,0,onboarding,1
+725,25,Delhi,41,121,0,0,ntb,1
+726,26,Mumbai,41,42,0,0,onboarding,1
+727,27,Delhi,47,179,1,0,take two,0
+728,28,Noida,54,65,1,0,active again,1
+729,29,Gurgaon,34,0,1,1,onboarding,1
+730,30,Bengaluru,40,168,0,0,onboarding,0
+731,31,Raipur,45,77,0,0,easy to bank,0
+732,32,Indore,49,27,0,0,mandatory,0
+733,33,Chennai,22,106,1,0,onboarding,0
+734,34,Lucknow,46,39,1,0,active again,0
+735,35,Kochi,40,67,0,0,mandatory,0
+736,36,Hyderabad,26,171,0,0,easy to bank,1
+737,37,Bhopal,53,158,1,0,ntb,0
+738,38,Nagpur,45,65,1,0,take two,0
+739,39,Mumbai,55,68,1,1,active again,1
+740,40,Delhi,55,176,0,0,active again,0
+741,41,Noida,28,75,0,0,take two,1
+742,42,Gurgaon,39,55,0,0,mandatory,0
+743,43,Bengaluru,46,153,1,0,easy to bank,0
+744,44,Hyderabad,26,37,1,0,active again,0
+745,45,Nagpur,40,24,0,0,easy to bank,1
+746,46,Mumbai,31,31,0,0,take two,0
+747,47,Gurgaon,18,2,1,0,active again,1
+748,48,Noida,42,50,1,0,take two,0
+749,49,Delhi,52,136,1,1,onboarding,0
+750,50,Delhi,33,99,0,0,ntb,1
+751,51,Mumbai,42,67,0,0,take two,1
+752,52,Delhi,32,62,0,0,easy to bank,0
+753,53,Noida,45,127,1,0,onboarding,0
+754,54,Gurgaon,29,134,1,0,onboarding,1
+755,55,Bengaluru,36,93,0,0,mandatory,0
+756,56,Raipur,26,123,0,0,take two,1
+757,57,Indore,21,106,1,0,ntb,0
+758,58,Chennai,50,111,1,1,onboarding,0
+759,59,Lucknow,48,109,1,0,onboarding,1
+760,60,Kochi,58,86,0,0,take two,1
+761,61,Hyderabad,45,87,0,0,easy to bank,0
+762,62,Bhopal,49,13,0,0,easy to bank,0
+763,63,Nagpur,60,102,1,0,ntb,1
+764,64,Mumbai,28,7,1,0,easy to bank,0
+765,65,Delhi,51,128,1,0,mandatory,0
+766,66,Noida,37,169,0,0,take two,1
+767,67,Gurgaon,54,47,0,0,active again,0
+768,68,Bengaluru,45,76,1,1,ntb,1
+769,69,Hyderabad,32,166,1,0,ntb,1
+770,70,Nagpur,47,68,1,0,ntb,1
+771,71,Mumbai,55,179,0,0,mandatory,0
+772,72,Gurgaon,60,120,0,0,onboarding,1
+773,73,Noida,22,3,0,0,active again,1
+774,74,Delhi,55,38,1,0,easy to bank,1
+775,75,Delhi,23,31,1,0,mandatory,1
+776,76,Mumbai,31,31,0,0,mandatory,0
+777,77,Delhi,49,130,0,0,take two,1
+778,78,Noida,34,19,1,1,take two,0
+779,79,Gurgaon,44,164,1,0,active again,0
+780,80,Bengaluru,56,116,1,0,active again,0
+781,81,Raipur,49,52,0,0,ntb,1
+782,82,Indore,39,23,0,0,onboarding,1
+783,83,Chennai,27,157,0,0,mandatory,1
+784,84,Lucknow,49,59,1,0,easy to bank,1
+785,85,Kochi,34,92,1,0,mandatory,0
+786,86,Hyderabad,24,23,0,0,take two,1
+787,87,Bhopal,45,20,0,0,easy to bank,0
+788,88,Nagpur,56,98,1,1,mandatory,0
+789,89,Mumbai,23,106,1,0,mandatory,1
+790,90,Delhi,21,42,1,0,ntb,1
+791,91,Noida,28,7,0,0,ntb,1
+792,92,Gurgaon,57,57,0,0,mandatory,1
+793,93,Bengaluru,18,37,0,0,onboarding,1
+794,94,Hyderabad,20,73,1,0,active again,0
+795,95,Nagpur,52,11,1,0,ntb,1
+796,96,Mumbai,55,168,0,1,onboarding,0
+797,97,Gurgaon,43,100,0,0,onboarding,1
+798,98,Noida,51,1,1,0,easy to bank,1
+799,99,Delhi,34,121,1,0,take two,0
+800,100,Delhi,27,136,1,0,take two,1
+801,1,Mumbai,38,97,0,0,mandatory,0
+802,2,Delhi,21,2,0,0,onboarding,1
+803,3,Noida,54,32,0,0,mandatory,1
+804,4,Gurgaon,23,56,1,0,ntb,1
+805,5,Bengaluru,31,167,1,0,onboarding,0
+806,6,Raipur,41,157,1,1,mandatory,0
+807,7,Indore,45,113,0,0,active again,0
+808,8,Chennai,49,41,0,0,onboarding,0
+809,9,Lucknow,59,56,1,0,onboarding,0
+810,10,Kochi,23,124,1,0,easy to bank,0
+811,11,Hyderabad,26,55,1,0,ntb,1
+812,12,Bhopal,56,108,0,0,ntb,0
+813,13,Nagpur,47,120,0,0,ntb,0
+814,14,Mumbai,45,90,0,0,ntb,0
+815,15,Delhi,51,178,1,0,take two,0
+816,16,Noida,42,59,1,1,easy to bank,0
+817,17,Gurgaon,53,40,0,0,easy to bank,1
+818,18,Bengaluru,27,144,0,0,ntb,1
+819,19,Hyderabad,19,124,1,0,mandatory,1
+820,20,Nagpur,42,111,1,0,mandatory,0
+821,21,Mumbai,29,128,1,0,onboarding,1
+822,22,Gurgaon,55,69,0,0,onboarding,0
+823,23,Noida,41,126,0,0,mandatory,0
+824,24,Delhi,59,165,0,0,active again,0
+825,25,Delhi,18,125,1,0,ntb,1
+826,26,Mumbai,25,25,1,1,mandatory,1
+827,27,Delhi,25,8,0,0,active again,0
+828,28,Noida,54,13,0,0,onboarding,0
+829,29,Gurgaon,49,16,1,0,take two,1
+830,30,Bengaluru,44,153,1,0,mandatory,0
+831,31,Raipur,32,36,1,0,take two,1
+832,32,Indore,46,26,0,0,ntb,1
+833,33,Chennai,26,130,0,0,mandatory,1
+834,34,Lucknow,51,26,0,0,active again,1
+835,35,Kochi,52,153,1,0,easy to bank,1
+836,36,Hyderabad,20,43,1,1,easy to bank,0
+837,37,Bhopal,42,90,0,0,onboarding,1
+838,38,Nagpur,40,104,0,0,take two,0
+839,39,Mumbai,46,42,1,0,onboarding,0
+840,40,Delhi,53,73,1,0,onboarding,0
+841,41,Noida,30,89,1,0,onboarding,0
+842,42,Gurgaon,29,130,0,0,onboarding,0
+843,43,Bengaluru,52,125,0,0,onboarding,1
+844,44,Hyderabad,19,67,0,0,ntb,0
+845,45,Nagpur,20,68,1,0,ntb,0
+846,46,Mumbai,46,44,1,1,active again,0
+847,47,Gurgaon,35,131,1,0,mandatory,1
+848,48,Noida,23,23,0,0,easy to bank,0
+849,49,Delhi,20,155,0,0,easy to bank,1
+850,50,Delhi,32,39,1,0,mandatory,0
+851,51,Mumbai,54,128,1,0,take two,0
+852,52,Delhi,25,155,1,0,take two,1
+853,53,Noida,38,148,0,0,onboarding,1
+854,54,Gurgaon,49,129,0,0,easy to bank,0
+855,55,Bengaluru,36,124,0,0,onboarding,1
+856,56,Raipur,18,21,1,1,onboarding,0
+857,57,Indore,32,71,1,0,ntb,1
+858,58,Chennai,41,116,0,0,take two,1
+859,59,Lucknow,23,176,0,0,ntb,1
+860,60,Kochi,50,9,1,0,ntb,1
+861,61,Hyderabad,21,108,1,0,onboarding,0
+862,62,Bhopal,23,50,1,0,onboarding,0
+863,63,Nagpur,39,157,0,0,easy to bank,0
+864,64,Mumbai,29,17,0,0,ntb,1
+865,65,Delhi,46,129,0,0,ntb,0
+866,66,Noida,37,46,1,1,ntb,1
+867,67,Gurgaon,18,154,1,0,onboarding,1
+868,68,Bengaluru,41,147,0,0,mandatory,1
+869,69,Hyderabad,27,169,0,0,ntb,0
+870,70,Nagpur,57,95,1,0,ntb,0
+871,71,Mumbai,59,77,1,0,ntb,1
+872,72,Gurgaon,35,88,1,0,ntb,0
+873,73,Noida,40,21,0,0,take two,1
+874,74,Delhi,30,180,0,0,take two,1
+875,75,Delhi,21,25,0,0,easy to bank,0
+876,76,Mumbai,35,91,1,1,take two,1
+877,77,Delhi,25,119,1,0,take two,0
+878,78,Noida,46,87,0,0,active again,1
+879,79,Gurgaon,53,124,0,0,easy to bank,1
+880,80,Bengaluru,29,125,1,0,onboarding,0
+881,81,Raipur,24,25,1,0,active again,0
+882,82,Indore,24,51,1,0,onboarding,1
+883,83,Chennai,38,83,0,0,onboarding,0
+884,84,Lucknow,52,60,0,0,ntb,0
+885,85,Kochi,23,53,0,0,ntb,0
+886,86,Hyderabad,40,156,1,1,active again,0
+887,87,Bhopal,19,145,1,0,take two,1
+888,88,Nagpur,24,108,1,0,ntb,1
+889,89,Mumbai,26,131,0,0,easy to bank,0
+890,90,Delhi,28,11,0,0,easy to bank,0
+891,91,Noida,34,140,1,0,mandatory,0
+892,92,Gurgaon,28,92,1,0,mandatory,1
+893,93,Bengaluru,38,128,1,0,mandatory,0
+894,94,Hyderabad,40,169,0,0,mandatory,1
+895,95,Nagpur,21,24,0,0,take two,0
+896,96,Mumbai,49,44,0,1,ntb,0
+897,97,Gurgaon,32,38,1,0,easy to bank,1
+898,98,Noida,48,8,1,0,active again,0
+899,99,Delhi,35,116,0,0,ntb,0
+900,100,Delhi,24,4,0,0,ntb,1
+901,1,Mumbai,46,14,1,0,active again,0
+902,2,Delhi,46,130,1,0,take two,1
+903,3,Noida,22,56,1,0,onboarding,1
+904,4,Gurgaon,59,90,0,0,easy to bank,0
+905,5,Bengaluru,38,6,0,0,mandatory,1
+906,6,Raipur,36,136,0,1,onboarding,1
+907,7,Indore,58,29,1,0,onboarding,0
+908,8,Chennai,43,27,1,0,mandatory,0
+909,9,Lucknow,58,76,0,0,onboarding,0
+910,10,Kochi,28,49,0,0,easy to bank,1
+911,11,Hyderabad,31,176,1,0,take two,1
+912,12,Bhopal,43,56,1,0,easy to bank,0
+913,13,Nagpur,54,143,1,0,easy to bank,0
+914,14,Mumbai,19,110,0,0,onboarding,1
+915,15,Delhi,33,19,0,1,active again,1
+916,16,Noida,45,33,0,0,take two,0
+917,17,Gurgaon,21,106,1,0,active again,0
+918,18,Bengaluru,57,27,1,0,take two,1
+919,19,Hyderabad,51,63,0,0,active again,0
+920,20,Nagpur,49,32,0,0,ntb,0
+921,21,Mumbai,27,2,1,0,mandatory,1
+922,22,Gurgaon,20,6,1,0,take two,1
+923,23,Noida,21,160,1,0,active again,0
+924,24,Delhi,35,136,0,0,take two,1
+925,25,Delhi,51,93,0,1,onboarding,0
+926,26,Mumbai,43,110,0,0,easy to bank,1
+927,27,Delhi,21,178,1,0,active again,0
+928,28,Noida,20,147,1,0,onboarding,1
+929,29,Gurgaon,31,126,1,0,onboarding,0
+930,30,Bengaluru,34,148,0,0,onboarding,0
+931,31,Raipur,32,58,0,0,ntb,1
+932,32,Indore,23,161,1,0,easy to bank,0
+933,33,Chennai,37,4,1,0,mandatory,1
+934,34,Lucknow,47,30,1,0,ntb,1
+935,35,Kochi,46,1,0,1,active again,0
+936,36,Hyderabad,18,89,0,0,active again,1
+937,37,Bhopal,24,38,0,0,ntb,0
+938,38,Nagpur,42,5,1,0,onboarding,0
+939,39,Mumbai,32,142,1,0,onboarding,1
+940,40,Delhi,35,158,0,0,mandatory,0
+941,41,Noida,19,144,0,0,easy to bank,0
+942,42,Gurgaon,36,9,1,0,onboarding,1
+943,43,Bengaluru,55,2,1,0,mandatory,1
+944,44,Hyderabad,23,65,1,0,active again,1
+945,45,Nagpur,24,70,0,1,mandatory,1
+946,46,Mumbai,48,6,0,0,onboarding,1
+947,47,Gurgaon,56,21,0,0,easy to bank,0
+948,48,Noida,53,81,1,0,ntb,1
+949,49,Delhi,47,116,1,0,active again,0
+950,50,Delhi,23,113,0,0,onboarding,0
+951,51,Mumbai,51,22,0,0,onboarding,0
+952,52,Delhi,46,10,1,0,mandatory,1
+953,53,Noida,29,160,1,0,onboarding,0
+954,54,Gurgaon,18,0,1,0,take two,1
+955,55,Bengaluru,49,164,0,1,active again,1
+956,56,Raipur,45,2,0,0,ntb,0
+957,57,Indore,30,23,0,0,active again,1
+958,58,Chennai,30,94,1,0,easy to bank,1
+959,59,Lucknow,53,88,1,0,active again,1
+960,60,Kochi,23,123,0,0,active again,0
+961,61,Hyderabad,18,170,0,0,mandatory,0
+962,62,Bhopal,36,67,1,0,ntb,0
+963,63,Nagpur,51,136,1,0,mandatory,1
+964,64,Mumbai,41,166,1,0,onboarding,0
+965,65,Delhi,60,84,0,1,active again,0
+966,66,Noida,55,20,0,0,ntb,0
+967,67,Gurgaon,33,27,0,0,ntb,1
+968,68,Bengaluru,56,61,1,0,onboarding,1
+969,69,Hyderabad,58,123,1,0,ntb,0
+970,70,Nagpur,49,116,1,0,easy to bank,1
+971,71,Mumbai,59,7,0,0,take two,1
+972,72,Gurgaon,22,49,0,0,mandatory,0
+973,73,Noida,48,65,1,0,active again,1
+974,74,Delhi,33,124,1,0,ntb,0
+975,75,Delhi,44,140,1,1,mandatory,0
+976,76,Mumbai,52,146,0,0,easy to bank,0
+977,77,Delhi,20,15,0,0,take two,0
+978,78,Noida,31,33,0,0,active again,1
+979,79,Gurgaon,30,62,1,0,ntb,1
+980,80,Bengaluru,33,160,1,0,mandatory,0
+981,81,Raipur,53,20,0,0,active again,0
+982,82,Indore,45,10,0,0,easy to bank,0
+983,83,Chennai,23,96,1,0,easy to bank,0
+984,84,Lucknow,56,18,1,0,mandatory,1
+985,85,Kochi,53,97,1,1,mandatory,0
+986,86,Hyderabad,50,156,0,0,take two,0
+987,87,Bhopal,59,121,0,0,active again,0
+988,88,Nagpur,35,22,0,0,active again,1
+989,89,Mumbai,54,44,1,0,ntb,1
+990,90,Delhi,26,177,1,0,easy to bank,0
+991,91,Noida,21,9,0,0,active again,1
+992,92,Gurgaon,38,89,0,0,easy to bank,0
+993,93,Bengaluru,55,79,1,0,mandatory,1
+994,94,Hyderabad,40,110,1,0,onboarding,0
+995,95,Nagpur,54,122,1,1,mandatory,0
+996,96,Mumbai,41,67,0,0,ntb,0
+997,97,Gurgaon,51,65,0,0,easy to bank,0
+998,98,Noida,49,21,0,0,mandatory,0
+999,99,Delhi,58,37,1,0,easy to bank,1
+1000,100,Delhi,22,94,1,1,ntb,0
