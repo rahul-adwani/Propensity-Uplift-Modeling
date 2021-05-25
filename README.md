@@ -13,35 +13,14 @@
 ### We need to avoid all the other 3 types of customers - Sure Things, Do Not Disturb and Lost Causes
 - This will help us save unnecessary costs and hence improving the Cost Per Click
 
-### One Model Process
-
-```mermaid
-graph LR
-A[Dataset with Treatment = 0 ] --> B((Model Classifier))
-
-C[Dataset with Treatment = 1 ] --> B((Model Classifier))
-
-B --> E{Uplift}
-```
-
-### Two Model Process
-
-```mermaid
-graph LR
-A[Dataset with Treatment = 0 ] --> B((Model 1 Classifier))
-
-C[Dataset with Treatment = 1 ] --> D((Model 2 Classifier))
-
-B --> E{Uplift}
-
-D --> E{Uplift}
-```
-
-If you are not able to view the UML diagrams, then please add this browser [plugin](https://github.com/BackMarket/github-mermaid-extension#install)
+[Image - Methods](https://raw.github.com/rahul-adwani/Propensity-Uplift-Modeling/main/images/methods.JPG)
 
 You can check out my other repositories here: [Github](https://github.com/rahul-adwani?tab=repositories)
+
 You can contact me here: [LinkedIn](https://www.linkedin.com/in/rahuladwani/)
+
 If you like the content, please give it a star
+
 
 Thanks for reading,
 Rahul Adwani
