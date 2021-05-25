@@ -13,7 +13,7 @@
 ### We need to avoid all the other 3 types of customers - Sure Things, Do Not Disturb and Lost Causes
 - This will help us save unnecessary costs and hence improving the Cost Per Click
 
-[Image - Methods](https://raw.github.com/rahul-adwani/Propensity-Uplift-Modeling/main/images/methods.JPG)
+![Image - Methods](https://raw.github.com/rahul-adwani/Propensity-Uplift-Modeling/main/images/methods.JPG)
 
 You can check out my other repositories here: [Github](https://github.com/rahul-adwani?tab=repositories)
 
