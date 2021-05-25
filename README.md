@@ -27,13 +27,23 @@
 
 ### Please note that the data used in this exercise is generated arbitrarily. There are some publicly available datasets and documentation of CausalLift also has a generate_data() method.
 
+### CausalLift package and any other available package uses the below two types of methods:
+
 ![Image - Methods](https://raw.github.com/rahul-adwani/Propensity-Uplift-Modeling/main/images/methods.JPG)
 
-You can check out my other repositories here: [Github](https://github.com/rahul-adwani?tab=repositories)
+### In both these methods, Propensity/Probability of Conversion is calculated and then a difference is taken between propensities of conversion if a customer is treated and if the customer is not treated.
 
-You can contact me here: [LinkedIn](https://www.linkedin.com/in/rahuladwani/)
+### This difference is called CATE - Conditional Average Treatment Effects
 
-If you like the content, please give it a star
+- CATE ranges between -1 and +1. Higher the value, higher the incremental propensity of conversionn
+
+#### Hope this was helpful
+
+#### You can check out my other repositories here: [Github](https://github.com/rahul-adwani?tab=repositories)
+
+#### You can contact me here: [LinkedIn](https://www.linkedin.com/in/rahuladwani/)
+
+#### If you liked the content, please give it a star
 
 
 Thanks for reading,
