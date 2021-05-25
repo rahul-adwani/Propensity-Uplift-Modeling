@@ -1,4 +1,4 @@
-# ![Icon - Target](https://raw.github.com/rahul-adwani/Propensity-Uplift-Modeling/main/images/target-icon.png) Propensity-Uplift-Modeling
+# ![Icon - Target](https://raw.github.com/rahul-adwani/Propensity-Uplift-Modeling/main/images/idea-icon.png) Propensity-Uplift-Modeling
 
 #### In this exercise, we are going to evaluate CausalLift package for building an Uplift Model to help a Digital Marketer on the below two fronts:
 - Increase Revenue by Improving Conversion Rates
